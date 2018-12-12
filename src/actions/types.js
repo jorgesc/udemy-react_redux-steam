@@ -1,0 +1,2 @@
+export const UPDATE_SIGN_IN_STATE = "UPDATE_SIGN_IN_STATE";
+export const UPDATE_USER_ID = "UPDATE_USER_ID";
